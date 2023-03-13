@@ -1,0 +1,17 @@
+.navbar{
+    padding-left:30px;
+}
+h5,.nav-link, .navbar-brand{
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.nav-item{
+    padding: 0 18px ;
+}
+.form-group label{
+    font-style: normal;
+    font-weight: bold;
+    font-size: small;
+    letter-spacing: 3px;
+}
